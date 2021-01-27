@@ -1,0 +1,12 @@
+body {
+  max-width: 900px;
+  margin: auto;
+}
+h1 {
+  font-family: sans-serif;
+}
+
+.special {
+  background-color: yellow;
+  color: red;
+}

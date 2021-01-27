@@ -1,0 +1,14 @@
+body {
+  max-width: 900px;
+  margin: auto;
+  background-color: red;
+  color: yellow;
+}
+h1 {
+  font-family: sans-serif;
+}
+
+.inverted-hotdog {
+  background-color: yellow;
+  color: red;
+}
