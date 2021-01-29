@@ -1,0 +1,24 @@
+nav {
+	display:flex;
+	flex-shrink: 0;
+	justify-content: flex-end;
+}
+
+nav a{
+	padding: 8px;
+}
+nav a:last-child{
+	background-color: blue;
+	color: white;
+	border-radius: 3px;
+}
+header{
+		text-align: center;
+}
+body{
+
+}
+main{
+	max-width: 550px;
+	margin: auto;
+}
