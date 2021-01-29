@@ -58,18 +58,18 @@ section img{
 	margin-right: 40px;
 }
 
-article h3{
+section h3{
 	font-size: 20px;
 	font-weight: 400;
 	color: #333;
 }
 
-article p{
+section p{
 	overflow: hidden;
 	line-height: 1.7;
 }
 
-article p a{
+section p a{
 	color: #4576c0;
 	text-decoration: none;
 }
