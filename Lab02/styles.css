@@ -1,0 +1,45 @@
+nav {
+  display: flex;
+  flex-direction: column;
+  background-color: #171717;
+  width: 15vw;
+  min-width: 100px;
+  flex-shrink: 0;
+}
+
+nav a {
+  background-color: #FF0070;
+  color: white;
+  padding: 10px 20px;
+  margin: 2px;
+  border-radius: 20px;
+}
+
+nav a:hover {
+  background-color: #FF5060;
+  color: white;
+  transition: background-color 0.4s;
+}
+
+header{
+  background-color: #171717;
+}
+
+body{
+  background-color: #171717;
+  color: white;
+}
+
+section{
+  padding: 0px 20px;
+  width:80vw;
+  box-sizing: border-box;
+}
+
+main{
+  display: flex;
+}
+
+header, section {
+  overflow: auto;
+}
